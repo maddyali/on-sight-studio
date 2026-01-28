@@ -52,7 +52,7 @@ export default function Header() {
         >
           <div className="w-10 h-10 rounded-full bg-gray-200 overflow-hidden">
             <img
-              src="public/pfp.png"
+              src="/pfp.png"
               alt="Maddy"
               className="w-full h-full object-cover"
             />
